@@ -21,4 +21,3 @@ PQ.con(BUS,[4 5]) = initial;
 
 end
 
-

@@ -10,5 +10,5 @@ To implement the model, you need to provide
 Based on different signal filtering strategies, three GCN models are proposed,
 - Spatial Convolution. Filtering signal in vertex domain.
 - Spectral Convolution. Filtering signal in spectral domain via graph Fourier transform.
-- Spectral-B Convolution. This is theriotically equivalent to Spatial Convolution.
+- Spectral-B Convolution. This is theoretically equivalent to Spatial Convolution.
 
